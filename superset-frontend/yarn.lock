@@ -18961,9 +18961,9 @@ react-resize-detector@^6.7.6:
     resize-observer-polyfill "^1.5.1"
 
 react-reverse-portal@^2.0.1:
-  version "2.1.0"
-  resolved "https://registry.npmmirror.com/react-reverse-portal/-/react-reverse-portal-2.1.0.tgz#3c572e1c0d9e49b8febf4bf2fd43b9819ce6f508"
-  integrity sha512-ck1igNI4tUFozJ89X7qqFtWy1wSL7WEd/5iZbjBjyf+6vjZ3leg4JJxdVPbFt9+zwMLcQSPsIkw9xGu9E+VqCQ==
+  version "2.1.1"
+  resolved "https://registry.yarnpkg.com/react-reverse-portal/-/react-reverse-portal-2.1.1.tgz#bffb93c7c94f4cbe6a1a85a1901426e2339e9351"
+  integrity sha512-FzuVLYEigKPB0NuMNLWymCgVp+P1h1MY57fQxhmY22idzz6El1rsXK5+bQ+wXvEa0smUtqTDcpM77epnXDV9wg==
 
 react-router-dom@^5.1.2:
   version "5.3.0"
